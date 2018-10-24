@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{EC85223C-5F0F-1F9D-B45A-9D9BC3BA2DEC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/holdPiece.cs">
+    <Files>
+      <File FileName="Assets/Scripts/displayFPS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FPS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameLogic.cs" Line="78" Column="43" />
+      <File FileName="Assets/Scripts/headControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/holdPiece.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
