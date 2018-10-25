@@ -306,7 +306,7 @@ public class GvrArmModel : GvrBaseArmModel{
 #if UNITY_EDITOR
     return GvrEditorEmulator.HeadRotation;
 #else
-    return UnityEngine.XR.InputTracking.GetLocalRotation(UnityEngine.XR.XRNode.Head);
+    return InputTracking.GetLocalRotation(VRNode.Head);
 #endif // UNITY_EDITOR
   }
 
@@ -314,7 +314,7 @@ public class GvrArmModel : GvrBaseArmModel{
 #if UNITY_EDITOR
     return GvrEditorEmulator.HeadPosition;
 #else
-    return UnityEngine.XR.InputTracking.GetLocalPosition(UnityEngine.XR.XRNode.Head);
+    return InputTracking.GetLocalPosition(VRNode.Head);
 #endif // UNITY_EDITOR
   }
 
